@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Aravinda_example.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True model_deploy.ipynb
